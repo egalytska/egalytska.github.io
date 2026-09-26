@@ -4,7 +4,7 @@ description: >-
   Atmospheric scientist studying stratospheric chemistry, climate modelling,
   and causal inference.
 baseurl: ""
-url: "https://<your-github-username>.github.io"
+url: "https://egalytska.github.io"
 theme: minima
 header_pages:
   - about.md
