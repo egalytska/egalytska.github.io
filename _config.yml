@@ -1,0 +1,26 @@
+title: "Evgenia Galytska"
+email: "egalytska@iup.physik.uni-bremen.de"
+description: >-
+  Atmospheric scientist studying stratospheric chemistry, climate modelling,
+  and causal inference.
+baseurl: ""
+url: "https://<your-github-username>.github.io"
+theme: minima
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - experience.md
+  - community.md
+  - awards.md
+  - contact.md
+minima:
+  skin: classic
+  social_links: []
+show_excerpts: false
+plugins:
+  - jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
