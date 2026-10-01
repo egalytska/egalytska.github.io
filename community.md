@@ -6,7 +6,12 @@ permalink: /community/
 
 ## Fresh Eyes on CMIP
 
-I contribute to the WCRP Fresh Eyes on CMIP initiative. My project work focuses on bringing together existing climate data analysis tools and tutorials so researchers can find and use them more easily.
+Member of the WCRP Fresh Eyes on CMIP Steering Group, representing the European climate science community. 
+
+Some outcome:
+In the project **"Compiling existing CMIP/climate data analysis tools and tutorials"** we have put together the collection of useful climate analysis tutorials [https://wcrp-cmip.org/tutorials/](https://wcrp-cmip.org/tutorials/). Feel free to contribute and sugegst any useful tutorial. 
+
+In the project **"Developing Guidelines for Working with Multi-Model Ensembles in CMIP"**
 
 ## Causal methods in climate science
 
